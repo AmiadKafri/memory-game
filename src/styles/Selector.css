@@ -107,6 +107,26 @@
   transform: translateY(-2px);
 }
 
+.no-words-message {
+  text-align: center;
+  padding: 2rem;
+  background-color: #fef3c7;
+  border: 2px solid #fbbf24;
+  border-radius: var(--border-radius);
+  margin-bottom: 2rem;
+}
+
+.no-words-message p {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.no-words-message p:first-child {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #92400e;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;

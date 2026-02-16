@@ -65,7 +65,7 @@ function App() {
       <main className="app-main">
         {screen === 'letter' && <LetterSelector onSelect={handleLetterSelect} />}
         {screen === 'position' && <PositionSelector letter={selectedLetter} onSelect={handlePositionSelect} onBack={handleBackFromPosition} />}
-        {screen === 'level' && <LevelSelector letter={selectedLetter} position={selectedPosition} onSelect={handleLevelSelect} onBack={handleBackFromLevel} />}
+        {screen === 'level' && <LevelSelector letter={selectedLetter} position={selectedPosition} wordsData={wordsData} onSelect={handleLevelSelect} onBack={handleBackFromLevel} />}
         {screen === 'game' && <GameBoard words={gameWords} onGameEnd={handleGameEnd} />}
       </main>
     </div>

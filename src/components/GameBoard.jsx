@@ -101,6 +101,9 @@ function GameBoard({ words, onGameEnd }) {
           <span className="stat-label">התאמות:</span>
           <span className="stat-value">{matched.length}/{words.length}</span>
         </div>
+        <button className="menu-btn" onClick={handleChangeGame} title="חזרה לתפריט הראשי">
+          🏠 תפריט ראשי
+        </button>
       </div>
 
       <div className="cards-grid">

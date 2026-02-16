@@ -6,10 +6,11 @@
 
 .game-stats {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr) auto;
   gap: 1rem;
   margin-bottom: 2rem;
   text-align: center;
+  align-items: center;
 }
 
 .stat {
@@ -31,6 +32,25 @@
   font-size: 1.75rem;
   font-weight: bold;
   color: var(--primary-color);
+}
+
+.menu-btn {
+  padding: 0.75rem 1.25rem;
+  background-color: var(--danger-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.menu-btn:hover {
+  background-color: #dc2626;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
 }
 
 .cards-grid {
@@ -136,6 +156,11 @@
 
   .stat-value {
     font-size: 1.5rem;
+  }
+
+  .menu-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
   }
 
   .cards-grid {
