@@ -1,0 +1,139 @@
+.selector-screen {
+  width: 100%;
+  max-width: 800px;
+  animation: fadeIn 0.3s ease;
+}
+
+.selector-screen h2 {
+  text-align: center;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+  color: var(--primary-color);
+}
+
+.selected-info {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+.letters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.letter-btn {
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border: 2px solid transparent;
+  border-radius: var(--border-radius);
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  cursor: pointer;
+  transition: var(--transition);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.letter-btn:hover {
+  border-color: var(--primary-color);
+  background-color: #ede9fe;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.2);
+}
+
+.letter-btn:active {
+  transform: translateY(0);
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.option-btn {
+  padding: 1.5rem;
+  border: 2px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  background-color: var(--card-bg);
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: center;
+}
+
+.option-btn:hover {
+  background-color: var(--primary-color);
+  color: white;
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(99, 102, 241, 0.3);
+}
+
+.option-label {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.option-description {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.option-btn:hover .option-description {
+  opacity: 1;
+}
+
+.back-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--danger-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--transition);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.back-btn:hover {
+  background-color: #dc2626;
+  transform: translateY(-2px);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .selector-screen h2 {
+    font-size: 1.4rem;
+  }
+
+  .letters-grid {
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .letter-btn {
+    padding: 0.75rem;
+    font-size: 1.2rem;
+  }
+
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+}
