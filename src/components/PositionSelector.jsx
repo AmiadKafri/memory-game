@@ -4,7 +4,8 @@ function PositionSelector({ letter, onSelect, onBack }) {
   const positions = [
     { id: 'beginning', label: 'תחילת המילה', description: '(האות בתחילה)' },
     { id: 'middle', label: 'אמצע המילה', description: '(האות באמצע)' },
-    { id: 'end', label: 'סוף המילה', description: '(האות בסוף)' }
+    { id: 'end', label: 'סוף המילה', description: '(האות בסוף)' },
+    { id: 'all', label: 'כל המיקומים', description: '(תחילה, אמצע וסוף)' }
   ]
 
   return (

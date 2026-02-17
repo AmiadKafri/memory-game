@@ -2,9 +2,21 @@ import '../styles/Selector.css'
 
 function LevelSelector({ letter, position, wordsData, onSelect, onBack }) {
   // Get available words count
-  const letterPos = position === 'beginning' ? 'beginning' : 
-                    position === 'middle' ? 'middle' : 'end'
-  const availableWords = wordsData.words[letter]?.[letterPos] || []
+  let availableWords = []
+  
+  if (position === 'all') {
+    // Combine words from all positions (beginning, middle, end)
+    const beginning = wordsData.words[letter]?.['beginning'] || []
+    const middle = wordsData.words[letter]?.['middle'] || []
+    const end = wordsData.words[letter]?.['end'] || []
+    availableWords = [...beginning, ...middle, ...end]
+  } else {
+    // Single position
+    const letterPos = position === 'beginning' ? 'beginning' : 
+                      position === 'middle' ? 'middle' : 'end'
+    availableWords = wordsData.words[letter]?.[letterPos] || []
+  }
+  
   const wordCount = availableWords.length
   
   const allLevels = [
@@ -19,7 +31,7 @@ function LevelSelector({ letter, position, wordsData, onSelect, onBack }) {
   return (
     <div className="selector-screen">
       <h2>בחר רמת קושי</h2>
-      <p className="selected-info">אות: {letter} | מיקום: {position}</p>
+      <p className="selected-info">אות: {letter} | מיקום: {position === 'all' ? 'כל המיקומים' : position === 'beginning' ? 'תחילה' : position === 'middle' ? 'אמצע' : 'סוף'}</p>
       {levels.length === 0 ? (
         <div className="no-words-message">
           <p>אין מספיק מילים לשילוב זה 😔</p>

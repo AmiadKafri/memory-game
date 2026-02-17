@@ -2,745 +2,2102 @@
   "words": {
     "א": {
       "beginning": [
-        { "word": "אתר", "emoji": "🕷️" },
-        { "word": "אדם", "emoji": "👤" },
-        { "word": "אונייה", "emoji": "🚢" },
-        { "word": "אוטו", "emoji": "🚗" },
-        { "word": "אל", "emoji": "⛪" },
-        { "word": "אחות", "emoji": "👩‍⚕️" },
-        { "word": "אח", "emoji": "👦" },
-        { "word": "אחד", "emoji": "1️⃣" },
-        { "word": "אחרון", "emoji": "⏱️" },
-        { "word": "אחרת", "emoji": "🔄" },
-        { "word": "אדמה", "emoji": "🌍" }
+        {
+          "word": "אדם",
+          "emoji": "👤"
+        },
+        {
+          "word": "אונייה",
+          "emoji": "🚢"
+        },
+        {
+          "word": "אוטו",
+          "emoji": "🚗"
+        },
+        {
+          "word": "אל",
+          "emoji": "⛪"
+        },
+        {
+          "word": "אחות",
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "word": "אח",
+          "emoji": "👦"
+        },
+        {
+          "word": "אחד",
+          "emoji": "1️⃣"
+        },
+        {
+          "word": "אחרון",
+          "emoji": "⏱️"
+        },
+        {
+          "word": "אחרת",
+          "emoji": "🔄"
+        },
+        {
+          "word": "אדמה",
+          "emoji": "🌍"
+        }
       ],
       "middle": [
-        { "word": "באדם", "emoji": "👤" },
-        { "word": "כאנו", "emoji": "👥" },
-        { "word": "לאחרונה", "emoji": "🕐" },
-        { "word": "ראה", "emoji": "👀" },
-        { "word": "גאון", "emoji": "🧠" },
-        { "word": "זאב", "emoji": "🐺" },
-        { "word": "מאוד", "emoji": "💯" },
-        { "word": "ראוי", "emoji": "👏" }
+        {
+          "word": "כאן",
+          "emoji": "👥"
+        },
+        {
+          "word": "ראה",
+          "emoji": "👀"
+        },
+        {
+          "word": "גאון",
+          "emoji": "🧠"
+        },
+        {
+          "word": "זאב",
+          "emoji": "🐺"
+        },
+        {
+          "word": "מאוד",
+          "emoji": "💯"
+        },
+        {
+          "word": "ראוי",
+          "emoji": "👏"
+        }
       ],
       "end": [
-        { "word": "בא", "emoji": "�" },
-        { "word": "קרא", "emoji": "📖" },
-        { "word": "סבא", "emoji": "👴" },
-        { "word": "סבתא", "emoji": "👵" },
-        { "word": "אבא", "emoji": "👨" },
-        { "word": "אמא", "emoji": "👩" },
-        { "word": "חטא", "emoji": "⚠️" },
-        { "word": "מצא", "emoji": "🔍" }
+        {
+          "word": "קרא",
+          "emoji": "📖"
+        },
+        {
+          "word": "סבא",
+          "emoji": "👴"
+        },
+        {
+          "word": "סבתא",
+          "emoji": "👵"
+        },
+        {
+          "word": "אבא",
+          "emoji": "👨"
+        },
+        {
+          "word": "אמא",
+          "emoji": "👩"
+        },
+        {
+          "word": "חטא",
+          "emoji": "⚠️"
+        },
+        {
+          "word": "מצא",
+          "emoji": "🔍"
+        }
       ]
     },
     "ב": {
       "beginning": [
-        { "word": "בית", "emoji": "🏠" },
-        { "word": "בגד", "emoji": "👕" },
-        { "word": "בן", "emoji": "👦" },
-        { "word": "בת", "emoji": "👧" },
-        { "word": "בקבוק", "emoji": "🍾" },
-        { "word": "בובה", "emoji": "🪆" },
-        { "word": "בעקבות", "emoji": "👣" },
-        { "word": "בחור", "emoji": "🧑" },
-        { "word": "בחורה", "emoji": "👩" },
-        { "word": "בדיחה", "emoji": "😂" },
-        { "word": "בהמה", "emoji": "🐄" }
+        {
+          "word": "בית",
+          "emoji": "🏠"
+        },
+        {
+          "word": "בגד",
+          "emoji": "👕"
+        },
+        {
+          "word": "בן",
+          "emoji": "👦"
+        },
+        {
+          "word": "בת",
+          "emoji": "👧"
+        },
+        {
+          "word": "בקבוק",
+          "emoji": "🍾"
+        },
+        {
+          "word": "בובה",
+          "emoji": "🪆"
+        },
+        {
+          "word": "בעקבות",
+          "emoji": "👣"
+        },
+        {
+          "word": "בחור",
+          "emoji": "🧑"
+        },
+        {
+          "word": "בחורה",
+          "emoji": "👩"
+        },
+        {
+          "word": "בדיחה",
+          "emoji": "😂"
+        },
+        {
+          "word": "בהמה",
+          "emoji": "🐄"
+        }
       ],
       "middle": [
-        { "word": "לבן", "emoji": "⚪" },
-        { "word": "לבנה", "emoji": "🌕" },
-        { "word": "שבת", "emoji": "🕯️" },
-        { "word": "שביל", "emoji": "🛤️" },
-        { "word": "כבד", "emoji": "🖤" },
-        { "word": "דובה", "emoji": "🐻" },
-        { "word": "חבל", "emoji": "🪢" },
-        { "word": "גבול", "emoji": "🚧" }
+        {
+          "word": "לבן",
+          "emoji": "⚪"
+        },
+        {
+          "word": "לבנה",
+          "emoji": "🌕"
+        },
+        {
+          "word": "שבת",
+          "emoji": "🕯️"
+        },
+        {
+          "word": "שביל",
+          "emoji": "🛤️"
+        },
+        {
+          "word": "דובה",
+          "emoji": "🐻"
+        },
+        {
+          "word": "חבל",
+          "emoji": "🪢"
+        },
+        {
+          "word": "גבול",
+          "emoji": "🚧"
+        }
       ],
       "end": [
-        { "word": "לב", "emoji": "❤️" },
-        { "word": "עב", "emoji": "☁️" },
-        { "word": "רב", "emoji": "👨‍🎓" },
-        { "word": "שב", "emoji": "🪑" },
-        { "word": "שכב", "emoji": "🛏️" },
-        { "word": "כתב", "emoji": "✍️" },
-        { "word": "זהב", "emoji": "💛" },
-        { "word": "כוכב", "emoji": "⭐" }
+        {
+          "word": "לב",
+          "emoji": "❤️"
+        },
+        {
+          "word": "עב",
+          "emoji": "☁️"
+        },
+        {
+          "word": "רב",
+          "emoji": "👨‍🎓"
+        },
+        {
+          "word": "שב",
+          "emoji": "🪑"
+        },
+        {
+          "word": "שכב",
+          "emoji": "🛏️"
+        },
+        {
+          "word": "כתב",
+          "emoji": "✍️"
+        },
+        {
+          "word": "זהב",
+          "emoji": "💛"
+        },
+        {
+          "word": "כוכב",
+          "emoji": "⭐"
+        }
       ]
     },
     "ג": {
       "beginning": [
-        { "word": "גמל", "emoji": "🐪" },
-        { "word": "גן", "emoji": "🌳" },
-        { "word": "גנב", "emoji": "🦹" },
-        { "word": "גרב", "emoji": "🧦" },
-        { "word": "גרגר", "emoji": "🌾" },
-        { "word": "גביע", "emoji": "🏆" },
-        { "word": "גדול", "emoji": "📏" },
-        { "word": "גדולה", "emoji": "📐" },
-        { "word": "גרזן", "emoji": "🪓" }
+        {
+          "word": "גמל",
+          "emoji": "🐪"
+        },
+        {
+          "word": "גן",
+          "emoji": "🌳"
+        },
+        {
+          "word": "גנב",
+          "emoji": "🦹"
+        },
+        {
+          "word": "גרב",
+          "emoji": "🧦"
+        },
+        {
+          "word": "גרגר",
+          "emoji": "🌾"
+        },
+        {
+          "word": "גביע",
+          "emoji": "🏆"
+        },
+        {
+          "word": "גדול",
+          "emoji": "📏"
+        },
+        {
+          "word": "גדולה",
+          "emoji": "📐"
+        },
+        {
+          "word": "גרזן",
+          "emoji": "🪓"
+        }
       ],
       "middle": [
-        { "word": "מגבעת", "emoji": "🎩" },
-        { "word": "דגל", "emoji": "🚩" },
-        { "word": "חגורה", "emoji": "🎗️" },
-        { "word": "מגן", "emoji": "🛡️" },
-        { "word": "בגד", "emoji": "👗" },
-        { "word": "אגס", "emoji": "🍐" },
-        { "word": "אגוז", "emoji": "🥜" },
-        { "word": "שגיאה", "emoji": "❌" }
+        {
+          "word": "מגבעת",
+          "emoji": "🎩"
+        },
+        {
+          "word": "דגל",
+          "emoji": "🚩"
+        },
+        {
+          "word": "חגורה",
+          "emoji": "🎗️"
+        },
+        {
+          "word": "מגן",
+          "emoji": "🛡️"
+        },
+        {
+          "word": "בגד",
+          "emoji": "👗"
+        },
+        {
+          "word": "אגס",
+          "emoji": "🍐"
+        },
+        {
+          "word": "אגוז",
+          "emoji": "🥜"
+        },
+        {
+          "word": "שגיאה",
+          "emoji": "❌"
+        }
       ],
       "end": [
-        { "word": "חג", "emoji": "🎉" },
-        { "word": "דג", "emoji": "🐟" },
-        { "word": "שג", "emoji": "😵" },
-        { "word": "דאג", "emoji": "😰" },
-        { "word": "מוג", "emoji": "🫠" },
-        { "word": "נוג", "emoji": "🥜" },
-        { "word": "שוג", "emoji": "🚗" },
-        { "word": "פג", "emoji": "⏰" }
+        {
+          "word": "חג",
+          "emoji": "🎉"
+        },
+        {
+          "word": "דג",
+          "emoji": "🐟"
+        },
+        {
+          "word": "דאג",
+          "emoji": "😰"
+        },
+        {
+          "word": "פג",
+          "emoji": "⏰"
+        }
       ]
     },
     "ד": {
       "beginning": [
-        { "word": "דב", "emoji": "🐻" },
-        { "word": "דלת", "emoji": "🚪" },
-        { "word": "דיג", "emoji": "🎣" },
-        { "word": "דקל", "emoji": "🌴" },
-        { "word": "דם", "emoji": "🩸" },
-        { "word": "דלי", "emoji": "🪣" },
-        { "word": "דברים", "emoji": "💬" },
-        { "word": "דודה", "emoji": "👩" },
-        { "word": "דודו", "emoji": "🦤" }
+        {
+          "word": "דב",
+          "emoji": "🐻"
+        },
+        {
+          "word": "דלת",
+          "emoji": "🚪"
+        },
+        {
+          "word": "דיג",
+          "emoji": "🎣"
+        },
+        {
+          "word": "דקל",
+          "emoji": "🌴"
+        },
+        {
+          "word": "דם",
+          "emoji": "🩸"
+        },
+        {
+          "word": "דלי",
+          "emoji": "🪣"
+        },
+        {
+          "word": "דברים",
+          "emoji": "💬"
+        },
+        {
+          "word": "דודה",
+          "emoji": "👩"
+        }
       ],
       "middle": [
-        { "word": "לדוגמה", "emoji": "📋" },
-        { "word": "בדיוק", "emoji": "✅" },
-        { "word": "חדש", "emoji": "✨" },
-        { "word": "רדיו", "emoji": "📻" },
-        { "word": "מדי", "emoji": "👔" },
-        { "word": "גדל", "emoji": "📈" },
-        { "word": "עדין", "emoji": "🤗" },
-        { "word": "בדק", "emoji": "🔍" }
+        {
+          "word": "לדוגמה",
+          "emoji": "📋"
+        },
+        {
+          "word": "בדיוק",
+          "emoji": "✅"
+        },
+        {
+          "word": "חדש",
+          "emoji": "✨"
+        },
+        {
+          "word": "רדיו",
+          "emoji": "📻"
+        },
+        {
+          "word": "מדים",
+          "emoji": "👔"
+        },
+        {
+          "word": "גדל",
+          "emoji": "📈"
+        },
+        {
+          "word": "עדין",
+          "emoji": "🤗"
+        },
+        {
+          "word": "בדק",
+          "emoji": "🔍"
+        }
       ],
       "end": [
-        { "word": "עד", "emoji": "⏰" },
-        { "word": "יד", "emoji": "🖐️" },
-        { "word": "מד", "emoji": "📏" },
-        { "word": "חד", "emoji": "🔪" },
-        { "word": "צד", "emoji": "🎯" },
-        { "word": "לד", "emoji": "👶" },
-        { "word": "מוד", "emoji": "📱" },
-        { "word": "יחד", "emoji": "👨‍👩‍👧" }
+        {
+          "word": "עד",
+          "emoji": "⏰"
+        },
+        {
+          "word": "יד",
+          "emoji": "🖐️"
+        },
+        {
+          "word": "מד",
+          "emoji": "📏"
+        },
+        {
+          "word": "חד",
+          "emoji": "🔪"
+        },
+        {
+          "word": "צד",
+          "emoji": "🎯"
+        },
+        {
+          "word": "ילד",
+          "emoji": "👶"
+        },
+        {
+          "word": "יחד",
+          "emoji": "👨‍👩‍👧"
+        }
       ]
     },
     "ה": {
       "beginning": [
-        { "word": "הר", "emoji": "⛰️" },
-        { "word": "הם", "emoji": "👨‍👩‍👧‍👦" },
-        { "word": "הן", "emoji": "👨‍👩‍👧‍👦" },
-        { "word": "היא", "emoji": "👩" },
-        { "word": "הוא", "emoji": "👨" },
-        { "word": "הבא", "emoji": "➡️" },
-        { "word": "הבאה", "emoji": "⬇️" },
-        { "word": "הברקה", "emoji": "⚡" },
-        { "word": "הדס", "emoji": "🌿" }
+        {
+          "word": "הר",
+          "emoji": "⛰️"
+        },
+        {
+          "word": "הם",
+          "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+          "word": "הן",
+          "emoji": "👨‍👩‍👧‍👦"
+        },
+        {
+          "word": "היא",
+          "emoji": "👩"
+        },
+        {
+          "word": "הוא",
+          "emoji": "👨"
+        },
+        {
+          "word": "הבא",
+          "emoji": "➡️"
+        },
+        {
+          "word": "הדס",
+          "emoji": "🌿"
+        }
       ],
       "middle": [
-        { "word": "להם", "emoji": "👥" },
-        { "word": "מהר", "emoji": "⚡" },
-        { "word": "נהר", "emoji": "🏞️" },
-        { "word": "זהב", "emoji": "💛" },
-        { "word": "שהה", "emoji": "⏸️" },
-        { "word": "גבוה", "emoji": "📈" },
-        { "word": "שהם", "emoji": "💎" },
-        { "word": "בהיר", "emoji": "💡" }
+        {
+          "word": "מהר",
+          "emoji": "⚡"
+        },
+        {
+          "word": "נהר",
+          "emoji": "🏞️"
+        },
+        {
+          "word": "זהב",
+          "emoji": "💛"
+        },
+        {
+          "word": "שהה",
+          "emoji": "⏸️"
+        },
+        {
+          "word": "גבוה",
+          "emoji": "📈"
+        },
+        {
+          "word": "שהם",
+          "emoji": "💎"
+        },
+        {
+          "word": "בהיר",
+          "emoji": "💡"
+        }
       ],
       "end": [
-        { "word": "מה", "emoji": "❓" },
-        { "word": "זה", "emoji": "👉" },
-        { "word": "פה", "emoji": "👄" },
-        { "word": "בה", "emoji": "📍" },
-        { "word": "לה", "emoji": "👩" },
-        { "word": "גבוה", "emoji": "⬆️" },
-        { "word": "נמוך", "emoji": "⬇️" },
-        { "word": "יפה", "emoji": "😍" }
+        {
+          "word": "מה",
+          "emoji": "❓"
+        },
+        {
+          "word": "זה",
+          "emoji": "👉"
+        },
+        {
+          "word": "פה",
+          "emoji": "👄"
+        },
+        {
+          "word": "לה",
+          "emoji": "👩"
+        },
+        {
+          "word": "גבוה",
+          "emoji": "⬆️"
+        },
+        {
+          "word": "יפה",
+          "emoji": "😍"
+        }
       ]
     },
     "ו": {
       "beginning": [
-        { "word": "ורד", "emoji": "🌹" },
-        { "word": "וילון", "emoji": "🪟" },
-        { "word": "ועדה", "emoji": "👥" },
-        { "word": "ויכוח", "emoji": "🗣️" },
-        { "word": "ותיק", "emoji": "👴" },
-        { "word": "וידאו", "emoji": "📹" },
-        { "word": "ווים", "emoji": "🪝" },
-        { "word": "ושט", "emoji": "🧘" }
+        {
+          "word": "ורד",
+          "emoji": "🌹"
+        },
+        {
+          "word": "וילון",
+          "emoji": "🪟"
+        },
+        {
+          "word": "ועדה",
+          "emoji": "👥"
+        },
+        {
+          "word": "ויכוח",
+          "emoji": "🗣️"
+        },
+        {
+          "word": "ותיק",
+          "emoji": "👴"
+        },
+        {
+          "word": "וידאו",
+          "emoji": "📹"
+        },
+        {
+          "word": "וו",
+          "emoji": "🪝"
+        }
       ],
       "middle": [
-        { "word": "לוח", "emoji": "📋" },
-        { "word": "בוקר", "emoji": "🌅" },
-        { "word": "חווה", "emoji": "🐄" },
-        { "word": "קווים", "emoji": "📏" },
-        { "word": "שווה", "emoji": "⚖️" },
-        { "word": "תווים", "emoji": "🎵" },
-        { "word": "מוות", "emoji": "💀" },
-        { "word": "גווע", "emoji": "😴" }
+        {
+          "word": "לוח",
+          "emoji": "📋"
+        },
+        {
+          "word": "בוקר",
+          "emoji": "🌅"
+        },
+        {
+          "word": "חווה",
+          "emoji": "🐄"
+        },
+        {
+          "word": "קוו",
+          "emoji": "📏"
+        },
+        {
+          "word": "שווה",
+          "emoji": "⚖️"
+        },
+        {
+          "word": "תוו",
+          "emoji": "🎵"
+        }
       ],
       "end": [
-        { "word": "בו", "emoji": "👉" },
-        { "word": "לו", "emoji": "💭" },
-        { "word": "נו", "emoji": "🤔" },
-        { "word": "או", "emoji": "🔀" },
-        { "word": "תו", "emoji": "🎫" },
-        { "word": "סו", "emoji": "🐴" },
-        { "word": "כו", "emoji": "➡️" },
-        { "word": "הו", "emoji": "😮" }
+        {
+          "word": "בו",
+          "emoji": "👉"
+        },
+        {
+          "word": "לו",
+          "emoji": "💭"
+        },
+        {
+          "word": "נו",
+          "emoji": "🤔"
+        },
+        {
+          "word": "או",
+          "emoji": "🔀"
+        },
+        {
+          "word": "תו",
+          "emoji": "🎫"
+        },
+        {
+          "word": "סוס",
+          "emoji": "🐴"
+        },
+        {
+          "word": "כו",
+          "emoji": "➡️"
+        }
       ]
     },
     "ז": {
       "beginning": [
-        { "word": "זקן", "emoji": "👴" },
-        { "word": "זכוכית", "emoji": "🥛" },
-        { "word": "זהב", "emoji": "💛" },
-        { "word": "זיתון", "emoji": "🫒" },
-        { "word": "זוג", "emoji": "👫" },
-        { "word": "זבוב", "emoji": "🪰" },
-        { "word": "זורח", "emoji": "☀️" },
-        { "word": "זמן", "emoji": "⏰" }
+        {
+          "word": "זקן",
+          "emoji": "👴"
+        },
+        {
+          "word": "זכוכית",
+          "emoji": "🥛"
+        },
+        {
+          "word": "זהב",
+          "emoji": "💛"
+        },
+        {
+          "word": "זית",
+          "emoji": "🫒"
+        },
+        {
+          "word": "זוג",
+          "emoji": "👫"
+        },
+        {
+          "word": "זבוב",
+          "emoji": "🪰"
+        },
+        {
+          "word": "זורח",
+          "emoji": "☀️"
+        },
+        {
+          "word": "זמן",
+          "emoji": "⏰"
+        }
       ],
       "middle": [
-        { "word": "לזקן", "emoji": "🧔" },
-        { "word": "בזוג", "emoji": "💑" },
-        { "word": "מזמור", "emoji": "🎵" },
-        { "word": "אזור", "emoji": "🗺️" },
-        { "word": "חזון", "emoji": "🔮" },
-        { "word": "אזורים", "emoji": "🌍" },
-        { "word": "מזל", "emoji": "♈" },
-        { "word": "אזן", "emoji": "👂" }
+        {
+          "word": "מזמור",
+          "emoji": "🎵"
+        },
+        {
+          "word": "אזור",
+          "emoji": "🗺️"
+        },
+        {
+          "word": "חזון",
+          "emoji": "🔮"
+        },
+        {
+          "word": "אזורים",
+          "emoji": "🌍"
+        },
+        {
+          "word": "מזל",
+          "emoji": "♈"
+        },
+        {
+          "word": "אוזן",
+          "emoji": "👂"
+        }
       ],
       "end": [
-        { "word": "עז", "emoji": "🐐" },
-        { "word": "אז", "emoji": "⏰" },
-        { "word": "גז", "emoji": "⛽" },
-        { "word": "רז", "emoji": "🤫" },
-        { "word": "אגוז", "emoji": "🥜" },
-        { "word": "ארז", "emoji": "🌲" },
-        { "word": "ברז", "emoji": "🚰" },
-        { "word": "חזיז", "emoji": "⚡" }
+        {
+          "word": "עז",
+          "emoji": "🐐"
+        },
+        {
+          "word": "אז",
+          "emoji": "⏰"
+        },
+        {
+          "word": "רז",
+          "emoji": "🤫"
+        },
+        {
+          "word": "אגוז",
+          "emoji": "🥜"
+        },
+        {
+          "word": "ארז",
+          "emoji": "🌲"
+        },
+        {
+          "word": "ברז",
+          "emoji": "🚰"
+        },
+        {
+          "word": "חזיז",
+          "emoji": "⚡"
+        }
       ]
     },
     "ח": {
       "beginning": [
-        { "word": "חתול", "emoji": "🐱" },
-        { "word": "חזיר", "emoji": "🐷" },
-        { "word": "חיים", "emoji": "❤️" },
-        { "word": "חלב", "emoji": "🥛" },
-        { "word": "חמוד", "emoji": "🥰" },
-        { "word": "חסר", "emoji": "❌" },
-        { "word": "חונה", "emoji": "🅿️" },
-        { "word": "חובה", "emoji": "📋" },
-        { "word": "חדש", "emoji": "✨" },
-        { "word": "חינוך", "emoji": "🎓" }
+        {
+          "word": "חתול",
+          "emoji": "🐱"
+        },
+        {
+          "word": "חזיר",
+          "emoji": "🐷"
+        },
+        {
+          "word": "חיים",
+          "emoji": "❤️"
+        },
+        {
+          "word": "חלב",
+          "emoji": "🥛"
+        },
+        {
+          "word": "חמוד",
+          "emoji": "🥰"
+        },
+        {
+          "word": "חסר",
+          "emoji": "❌"
+        },
+        {
+          "word": "חונה",
+          "emoji": "🅿️"
+        },
+        {
+          "word": "חובה",
+          "emoji": "📋"
+        },
+        {
+          "word": "חדש",
+          "emoji": "✨"
+        },
+        {
+          "word": "חינוך",
+          "emoji": "🎓"
+        }
       ],
       "middle": [
-        { "word": "לחם", "emoji": "🍞" },
-        { "word": "בחום", "emoji": "🔥" },
-        { "word": "מחיר", "emoji": "💰" },
-        { "word": "מחר", "emoji": "📅" },
-        { "word": "שחקן", "emoji": "🎭" },
-        { "word": "שחור", "emoji": "⚫" },
-        { "word": "נחת", "emoji": "😌" },
-        { "word": "אחות", "emoji": "👩‍⚕️" }
+        {
+          "word": "לחם",
+          "emoji": "🍞"
+        },
+        {
+          "word": "בחום",
+          "emoji": "🔥"
+        },
+        {
+          "word": "מחיר",
+          "emoji": "💰"
+        },
+        {
+          "word": "מחר",
+          "emoji": "📅"
+        },
+        {
+          "word": "שחקן",
+          "emoji": "🎭"
+        },
+        {
+          "word": "שחור",
+          "emoji": "⚫"
+        },
+        {
+          "word": "נחת",
+          "emoji": "😌"
+        },
+        {
+          "word": "אחות",
+          "emoji": "👩‍⚕️"
+        }
       ],
       "end": [
-        { "word": "לח", "emoji": "💧" },
-        { "word": "כח", "emoji": "💪" },
-        { "word": "פח", "emoji": "🗑️" },
-        { "word": "מח", "emoji": "🧠" },
-        { "word": "רוח", "emoji": "💨" },
-        { "word": "נוח", "emoji": "😌" },
-        { "word": "צח", "emoji": "⚪" },
-        { "word": "בטח", "emoji": "✅" }
+        {
+          "word": "לח",
+          "emoji": "💧"
+        },
+        {
+          "word": "כח",
+          "emoji": "💪"
+        },
+        {
+          "word": "פח",
+          "emoji": "🗑️"
+        },
+        {
+          "word": "מח",
+          "emoji": "🧠"
+        },
+        {
+          "word": "רוח",
+          "emoji": "💨"
+        },
+        {
+          "word": "נוח",
+          "emoji": "😌"
+        },
+        {
+          "word": "צח",
+          "emoji": "⚪"
+        }
       ]
     },
     "ט": {
       "beginning": [
-        { "word": "טוב", "emoji": "👍" },
-        { "word": "טובה", "emoji": "🎁" },
-        { "word": "טבעי", "emoji": "🌿" },
-        { "word": "טלפון", "emoji": "☎️" },
-        { "word": "טנק", "emoji": "🪖" },
-        { "word": "טבור", "emoji": "⭕" },
-        { "word": "טילים", "emoji": "🚀" },
-        { "word": "טיול", "emoji": "🧿" }
+        {
+          "word": "טוב",
+          "emoji": "👍"
+        },
+        {
+          "word": "טובה",
+          "emoji": "🎁"
+        },
+        {
+          "word": "טבע",
+          "emoji": "🌿"
+        },
+        {
+          "word": "טלפון",
+          "emoji": "☎️"
+        },
+        {
+          "word": "טנק",
+          "emoji": "🪖"
+        },
+        {
+          "word": "טבור",
+          "emoji": "⭕"
+        },
+        {
+          "word": "טיל",
+          "emoji": "🚀"
+        },
+        {
+          "word": "טיול",
+          "emoji": "🧿"
+        }
       ],
       "middle": [
-        { "word": "לטבע", "emoji": "🏞️" },
-        { "word": "בטוח", "emoji": "😊" },
-        { "word": "מטיל", "emoji": "⛱️" },
-        { "word": "שטח", "emoji": "📍" },
-        { "word": "פטיש", "emoji": "🔨" },
-        { "word": "קטן", "emoji": "👶" },
-        { "word": "נטוש", "emoji": "🤝" },
-        { "word": "סטודנט", "emoji": "👨‍🎓" }
+        {
+          "word": "בטוח",
+          "emoji": "😊"
+        },
+        {
+          "word": "שטח",
+          "emoji": "📍"
+        },
+        {
+          "word": "פטיש",
+          "emoji": "🔨"
+        },
+        {
+          "word": "קטן",
+          "emoji": "👶"
+        },
+        {
+          "word": "נטוש",
+          "emoji": "🤝"
+        },
+        {
+          "word": "סטודנט",
+          "emoji": "👨‍🎓"
+        }
       ],
       "end": [
-        { "word": "מט", "emoji": "🛏️" },
-        { "word": "שט", "emoji": "🚣" },
-        { "word": "חיט", "emoji": "🧵" },
-        { "word": "שוט", "emoji": "🔫" },
-        { "word": "חוט", "emoji": "🧶" },
-        { "word": "פשוט", "emoji": "👍" },
-        { "word": "קט", "emoji": "🐱" },
-        { "word": "פרט", "emoji": "🔍" }
+        {
+          "word": "מיטה",
+          "emoji": "🛏️"
+        },
+        {
+          "word": "שט",
+          "emoji": "🚣"
+        },
+        {
+          "word": "חיטה",
+          "emoji": "🧵"
+        },
+        {
+          "word": "שוט",
+          "emoji": "🔫"
+        },
+        {
+          "word": "חוט",
+          "emoji": "🧶"
+        },
+        {
+          "word": "פשוט",
+          "emoji": "👍"
+        },
+        {
+          "word": "קט",
+          "emoji": "🐱"
+        },
+        {
+          "word": "פרט",
+          "emoji": "🔍"
+        }
       ]
     },
     "י": {
       "beginning": [
-        { "word": "יד", "emoji": "🖐️" },
-        { "word": "ים", "emoji": "🌊" },
-        { "word": "יום", "emoji": "☀️" },
-        { "word": "יהודי", "emoji": "🕎" },
-        { "word": "יהודית", "emoji": "🕎" },
-        { "word": "יונה", "emoji": "🕊️" },
-        { "word": "יער", "emoji": "🌲" },
-        { "word": "יולי", "emoji": "📅" },
-        { "word": "יוני", "emoji": "🌸" },
-        { "word": "יהלום", "emoji": "💎" }
+        {
+          "word": "יד",
+          "emoji": "🖐️"
+        },
+        {
+          "word": "ים",
+          "emoji": "🌊"
+        },
+        {
+          "word": "יום",
+          "emoji": "☀️"
+        },
+        {
+          "word": "יהודי",
+          "emoji": "🕎"
+        },
+        {
+          "word": "יונה",
+          "emoji": "🕊️"
+        },
+        {
+          "word": "יער",
+          "emoji": "🌲"
+        },
+        {
+          "word": "יולי",
+          "emoji": "📅"
+        },
+        {
+          "word": "יהלום",
+          "emoji": "💎"
+        }
       ],
       "middle": [
-        { "word": "לימור", "emoji": "📚" },
-        { "word": "בימים", "emoji": "📆" },
-        { "word": "שיר", "emoji": "🎵" },
-        { "word": "ביום", "emoji": "⏰" },
-        { "word": "עיר", "emoji": "🌆" },
-        { "word": "ציון", "emoji": "🎰" },
-        { "word": "פיל", "emoji": "🐘" },
-        { "word": "מים", "emoji": "💧" }
+        {
+          "word": "היום",
+          "emoji": "📆"
+        },
+        {
+          "word": "שיר",
+          "emoji": "🎵"
+        },
+        {
+          "word": "עיר",
+          "emoji": "🌆"
+        },
+        {
+          "word": "פיל",
+          "emoji": "🐘"
+        },
+        {
+          "word": "מים",
+          "emoji": "💧"
+        }
       ],
       "end": [
-        { "word": "לי", "emoji": "👤" },
-        { "word": "כי", "emoji": "❓" },
-        { "word": "פי", "emoji": "👄" },
-        { "word": "מי", "emoji": "🤔" },
-        { "word": "אי", "emoji": "🏝️" },
-        { "word": "חי", "emoji": "💚" },
-        { "word": "עין", "emoji": "👁️" },
-        { "word": "דגי", "emoji": "🐟" }
+        {
+          "word": "לי",
+          "emoji": "👤"
+        },
+        {
+          "word": "כי",
+          "emoji": "❓"
+        },
+        {
+          "word": "מי",
+          "emoji": "🤔"
+        },
+        {
+          "word": "אי",
+          "emoji": "🏝️"
+        },
+        {
+          "word": "חי",
+          "emoji": "💚"
+        },
+        {
+          "word": "עין",
+          "emoji": "👁️"
+        }
       ]
     },
     "כ": {
       "beginning": [
-        { "word": "כלב", "emoji": "🐕" },
-        { "word": "כיסא", "emoji": "🪑" },
-        { "word": "כוכב", "emoji": "⭐" },
-        { "word": "כל", "emoji": "🎯" },
-        { "word": "כלל", "emoji": "📋" },
-        { "word": "כדור", "emoji": "⚽" },
-        { "word": "כמה", "emoji": "🤷" },
-        { "word": "כאן", "emoji": "👇" },
-        { "word": "כדי", "emoji": "🎯" },
-        { "word": "כפרי", "emoji": "🌾" },
-        { "word": "כלה", "emoji": "👰" }
+        {
+          "word": "כלב",
+          "emoji": "🐕"
+        },
+        {
+          "word": "כיסא",
+          "emoji": "🪑"
+        },
+        {
+          "word": "כוכב",
+          "emoji": "⭐"
+        },
+        {
+          "word": "כל",
+          "emoji": "🎯"
+        },
+        {
+          "word": "כלל",
+          "emoji": "📋"
+        },
+        {
+          "word": "כדור",
+          "emoji": "⚽"
+        },
+        {
+          "word": "כמה",
+          "emoji": "🤷"
+        },
+        {
+          "word": "כאן",
+          "emoji": "👇"
+        },
+        {
+          "word": "כדי",
+          "emoji": "🎯"
+        },
+        {
+          "word": "כפרי",
+          "emoji": "🌾"
+        },
+        {
+          "word": "כלה",
+          "emoji": "👰"
+        }
       ],
       "middle": [
-        { "word": "לכל", "emoji": "🌍" },
-        { "word": "בכלל", "emoji": "🔔" },
-        { "word": "שכל", "emoji": "🧠" },
-        { "word": "מכל", "emoji": "📦" },
-        { "word": "אכל", "emoji": "🍽️" },
-        { "word": "הכל", "emoji": "📦" },
-        { "word": "מכון", "emoji": "📍" },
-        { "word": "סכום", "emoji": "📊" }
+        {
+          "word": "לכל",
+          "emoji": "🌍"
+        },
+        {
+          "word": "בכלל",
+          "emoji": "🔔"
+        },
+        {
+          "word": "שכל",
+          "emoji": "🧠"
+        },
+        {
+          "word": "אכל",
+          "emoji": "🍽️"
+        },
+        {
+          "word": "הכל",
+          "emoji": "📦"
+        },
+        {
+          "word": "מכון",
+          "emoji": "📍"
+        },
+        {
+          "word": "סכום",
+          "emoji": "📊"
+        }
       ],
       "end": [
-        { "word": "לך", "emoji": "🚶" },
-        { "word": "אך", "emoji": "�" },
-        { "word": "חך", "emoji": "👄" },
-        { "word": "סך", "emoji": "📊" },
-        { "word": "רך", "emoji": "🧸" },
-        { "word": "דרך", "emoji": "🛤️" },
-        { "word": "ארוך", "emoji": "📏" },
-        { "word": "כך", "emoji": "👆" }
+        {
+          "word": "לך",
+          "emoji": "🚶"
+        },
+        {
+          "word": "אך",
+          "emoji": "�"
+        },
+        {
+          "word": "חך",
+          "emoji": "👄"
+        },
+        {
+          "word": "סך",
+          "emoji": "📊"
+        },
+        {
+          "word": "רך",
+          "emoji": "🧸"
+        },
+        {
+          "word": "דרך",
+          "emoji": "🛤️"
+        },
+        {
+          "word": "ארוך",
+          "emoji": "📏"
+        }
       ]
     },
     "ל": {
       "beginning": [
-        { "word": "לב", "emoji": "❤️" },
-        { "word": "לבן", "emoji": "⚪" },
-        { "word": "לבנה", "emoji": "🌕" },
-        { "word": "לשון", "emoji": "👅" },
-        { "word": "לחם", "emoji": "🍞" },
-        { "word": "לילה", "emoji": "🌙" },
-        { "word": "לאום", "emoji": "🏳️" },
-        { "word": "לטוב", "emoji": "✅" },
-        { "word": "לעיר", "emoji": "🏙️" },
-        { "word": "להט", "emoji": "🔥" }
+        {
+          "word": "לב",
+          "emoji": "❤️"
+        },
+        {
+          "word": "לבן",
+          "emoji": "⚪"
+        },
+        {
+          "word": "לבנה",
+          "emoji": "🌕"
+        },
+        {
+          "word": "לשון",
+          "emoji": "👅"
+        },
+        {
+          "word": "לחם",
+          "emoji": "🍞"
+        },
+        {
+          "word": "לילה",
+          "emoji": "🌙"
+        },
+        {
+          "word": "לאום",
+          "emoji": "🏳️"
+        },
+        {
+          "word": "לוהט",
+          "emoji": "🔥"
+        }
       ],
       "middle": [
-        { "word": "בלי", "emoji": "🚫" },
-        { "word": "שלום", "emoji": "👋" },
-        { "word": "פלח", "emoji": "🧅" },
-        { "word": "בלון", "emoji": "🎈" },
-        { "word": "חלום", "emoji": "💤" },
-        { "word": "שלג", "emoji": "❄️" },
-        { "word": "מלח", "emoji": "🧂" },
-        { "word": "גלים", "emoji": "🌊" }
+        {
+          "word": "בלי",
+          "emoji": "🚫"
+        },
+        {
+          "word": "שלום",
+          "emoji": "👋"
+        },
+        {
+          "word": "פלח",
+          "emoji": "🧅"
+        },
+        {
+          "word": "בלון",
+          "emoji": "🎈"
+        },
+        {
+          "word": "חלום",
+          "emoji": "💤"
+        },
+        {
+          "word": "שלג",
+          "emoji": "❄️"
+        },
+        {
+          "word": "מלח",
+          "emoji": "🧂"
+        },
+        {
+          "word": "גלים",
+          "emoji": "🌊"
+        }
       ],
       "end": [
-        { "word": "על", "emoji": "🔝" },
-        { "word": "כל", "emoji": "🎚️" },
-        { "word": "תל", "emoji": "⛰️" },
-        { "word": "אל", "emoji": "⬆️" },
-        { "word": "בל", "emoji": "🚫" },
-        { "word": "גל", "emoji": "🌊" },
-        { "word": "חל", "emoji": "👨‍🚀" },
-        { "word": "דל", "emoji": "🚪" }
+        {
+          "word": "על",
+          "emoji": "🔝"
+        },
+        {
+          "word": "כל",
+          "emoji": "🎚️"
+        },
+        {
+          "word": "תל",
+          "emoji": "⛰️"
+        },
+        {
+          "word": "אל",
+          "emoji": "⬆️"
+        },
+        {
+          "word": "בל",
+          "emoji": "🚫"
+        },
+        {
+          "word": "גל",
+          "emoji": "🌊"
+        },
+        {
+          "word": "דל",
+          "emoji": "🚪"
+        }
       ]
     },
     "מ": {
       "beginning": [
-        { "word": "מראה", "emoji": "🪞" },
-        { "word": "מקום", "emoji": "📍" },
-        { "word": "מרבד", "emoji": "🛏️" },
-        { "word": "מיטה", "emoji": "🛏️" },
-        { "word": "מלח", "emoji": "🧂" },
-        { "word": "מנוחה", "emoji": "😴" },
-        { "word": "מים", "emoji": "💧" },
-        { "word": "מטוס", "emoji": "✈️" },
-        { "word": "מכונית", "emoji": "🚗" },
-        { "word": "מחשב", "emoji": "💻" },
-        { "word": "מדד", "emoji": "📊" }
+        {
+          "word": "מראה",
+          "emoji": "🪞"
+        },
+        {
+          "word": "מקום",
+          "emoji": "📍"
+        },
+        {
+          "word": "מרבד",
+          "emoji": "🛏️"
+        },
+        {
+          "word": "מיטה",
+          "emoji": "🛏️"
+        },
+        {
+          "word": "מלח",
+          "emoji": "🧂"
+        },
+        {
+          "word": "מנוחה",
+          "emoji": "😴"
+        },
+        {
+          "word": "מים",
+          "emoji": "💧"
+        },
+        {
+          "word": "מטוס",
+          "emoji": "✈️"
+        },
+        {
+          "word": "מכונית",
+          "emoji": "🚗"
+        },
+        {
+          "word": "מחשב",
+          "emoji": "💻"
+        },
+        {
+          "word": "מדד",
+          "emoji": "📊"
+        }
       ],
       "middle": [
-        { "word": "חמוד", "emoji": "🥰" },
-        { "word": "שמח", "emoji": "😊" },
-        { "word": "תמונה", "emoji": "📸" },
-        { "word": "תמיד", "emoji": "⏱️" },
-        { "word": "דמות", "emoji": "👤" },
-        { "word": "שמש", "emoji": "☀️" },
-        { "word": "חמש", "emoji": "5️⃣" },
-        { "word": "אמנם", "emoji": "👍" }
+        {
+          "word": "חמוד",
+          "emoji": "🥰"
+        },
+        {
+          "word": "שמח",
+          "emoji": "😊"
+        },
+        {
+          "word": "תמונה",
+          "emoji": "📸"
+        },
+        {
+          "word": "תמיד",
+          "emoji": "⏱️"
+        },
+        {
+          "word": "דמות",
+          "emoji": "👤"
+        },
+        {
+          "word": "שמש",
+          "emoji": "☀️"
+        },
+        {
+          "word": "חמש",
+          "emoji": "5️⃣"
+        }
       ],
       "end": [
-        { "word": "עם", "emoji": "👥" },
-        { "word": "אם", "emoji": "👩" },
-        { "word": "דם", "emoji": "🩸" },
-        { "word": "חם", "emoji": "🔥" },
-        { "word": "גם", "emoji": "➕" },
-        { "word": "שם", "emoji": "📝" },
-        { "word": "טם", "emoji": "✅" },
-        { "word": "ים", "emoji": "🌊" }
+        {
+          "word": "עם",
+          "emoji": "👥"
+        },
+        {
+          "word": "אם",
+          "emoji": "👩"
+        },
+        {
+          "word": "דם",
+          "emoji": "🩸"
+        },
+        {
+          "word": "חם",
+          "emoji": "🔥"
+        },
+        {
+          "word": "גם",
+          "emoji": "➕"
+        },
+        {
+          "word": "שם",
+          "emoji": "📝"
+        },
+        {
+          "word": "תם",
+          "emoji": "✅"
+        },
+        {
+          "word": "ים",
+          "emoji": "🌊"
+        }
       ]
     },
     "נ": {
       "beginning": [
-        { "word": "נמר", "emoji": "🐅" },
-        { "word": "נחש", "emoji": "🐍" },
-        { "word": "נשר", "emoji": "🦅" },
-        { "word": "נר", "emoji": "🕯️" },
-        { "word": "נימה", "emoji": "🧵" },
-        { "word": "נהר", "emoji": "🏞️" },
-        { "word": "נדוד", "emoji": "🚶" },
-        { "word": "נשמה", "emoji": "👻" },
-        { "word": "נסיון", "emoji": "🎯" },
-        { "word": "נקודה", "emoji": "•" },
-        { "word": "נותן", "emoji": "🤲" }
+        {
+          "word": "נמר",
+          "emoji": "🐅"
+        },
+        {
+          "word": "נחש",
+          "emoji": "🐍"
+        },
+        {
+          "word": "נשר",
+          "emoji": "🦅"
+        },
+        {
+          "word": "נר",
+          "emoji": "🕯️"
+        },
+        {
+          "word": "נהר",
+          "emoji": "🏞️"
+        },
+        {
+          "word": "נודד",
+          "emoji": "🚶"
+        },
+        {
+          "word": "נשמה",
+          "emoji": "👻"
+        },
+        {
+          "word": "נסיון",
+          "emoji": "🎯"
+        },
+        {
+          "word": "נקודה",
+          "emoji": "•"
+        },
+        {
+          "word": "נותן",
+          "emoji": "🤲"
+        }
       ],
       "middle": [
-        { "word": "לנחש", "emoji": "🔮" },
-        { "word": "בנימה", "emoji": "💨" },
-        { "word": "מנשה", "emoji": "🗺️" },
-        { "word": "מנורה", "emoji": "🕯️" },
-        { "word": "גנב", "emoji": "🦹" },
-        { "word": "חנות", "emoji": "🏪" },
-        { "word": "סנדל", "emoji": "👡" },
-        { "word": "אניה", "emoji": "🚢" }
+        {
+          "word": "לנחש",
+          "emoji": "🔮"
+        },
+        {
+          "word": "מנורה",
+          "emoji": "🕯️"
+        },
+        {
+          "word": "גנב",
+          "emoji": "🦹"
+        },
+        {
+          "word": "חנות",
+          "emoji": "🏪"
+        },
+        {
+          "word": "סנדל",
+          "emoji": "👡"
+        },
+        {
+          "word": "אניה",
+          "emoji": "🚢"
+        }
       ],
       "end": [
-        { "word": "כן", "emoji": "✅" },
-        { "word": "בן", "emoji": "👦" },
-        { "word": "גן", "emoji": "🌳" },
-        { "word": "דנ", "emoji": "⚖️" },
-        { "word": "אוזן", "emoji": "👂" },
-        { "word": "מן", "emoji": "🍞" },
-        { "word": "ען", "emoji": "🌳" },
-        { "word": "חן", "emoji": "👏" }
+        {
+          "word": "כן",
+          "emoji": "✅"
+        },
+        {
+          "word": "בן",
+          "emoji": "👦"
+        },
+        {
+          "word": "גן",
+          "emoji": "🌳"
+        },
+        {
+          "word": "דן",
+          "emoji": "⚖️"
+        },
+        {
+          "word": "אוזן",
+          "emoji": "👂"
+        },
+        {
+          "word": "מן",
+          "emoji": "🍞"
+        },
+        {
+          "word": "ענן",
+          "emoji": "🌳"
+        }
       ]
     },
     "ס": {
       "beginning": [
-        { "word": "סוס", "emoji": "🐴" },
-        { "word": "סלם", "emoji": "🪜" },
-        { "word": "סירה", "emoji": "⛵" },
-        { "word": "סף", "emoji": "🚪" },
-        { "word": "סדין", "emoji": "🛏️" },
-        { "word": "סרט", "emoji": "🎬" },
-        { "word": "סוכה", "emoji": "🏠" },
-        { "word": "סביבה", "emoji": "🌍" },
-        { "word": "סתום", "emoji": "🔐" },
-        { "word": "סם", "emoji": "💊" }
+        {
+          "word": "סוס",
+          "emoji": "🐴"
+        },
+        {
+          "word": "סולם",
+          "emoji": "🪜"
+        },
+        {
+          "word": "סירה",
+          "emoji": "⛵"
+        },
+        {
+          "word": "סף",
+          "emoji": "🚪"
+        },
+        {
+          "word": "סדין",
+          "emoji": "🛏️"
+        },
+        {
+          "word": "סרט",
+          "emoji": "🎬"
+        },
+        {
+          "word": "סוכה",
+          "emoji": "🏠"
+        },
+        {
+          "word": "סביבה",
+          "emoji": "🌍"
+        }
       ],
       "middle": [
-        { "word": "לסוס", "emoji": "🏇" },
-        { "word": "בסדר", "emoji": "👌" },
-        { "word": "מסעדה", "emoji": "🍴" },
-        { "word": "נסיעה", "emoji": "🚗" },
-        { "word": "עסק", "emoji": "💼" },
-        { "word": "חסון", "emoji": "💪" },
-        { "word": "פסל", "emoji": "🗿" },
-        { "word": "גסם", "emoji": "🌧️" }
+        {
+          "word": "מסעדה",
+          "emoji": "🍴"
+        },
+        {
+          "word": "נסיעה",
+          "emoji": "🚗"
+        },
+        {
+          "word": "עסק",
+          "emoji": "💼"
+        },
+        {
+          "word": "חסון",
+          "emoji": "💪"
+        },
+        {
+          "word": "פסל",
+          "emoji": "🗿"
+        }
       ],
       "end": [
-        { "word": "כוס", "emoji": "🍺" },
-        { "word": "נס", "emoji": "🏁" },
-        { "word": "גס", "emoji": "⛽" },
-        { "word": "בוס", "emoji": "🚌" },
-        { "word": "סוס", "emoji": "🐴" },
-        { "word": "רסס", "emoji": "💧" },
-        { "word": "כסף", "emoji": "💵" },
-        { "word": "פס", "emoji": "👾" }
+        {
+          "word": "כוס",
+          "emoji": "🍺"
+        },
+        {
+          "word": "נס",
+          "emoji": "🏁"
+        },
+        {
+          "word": "אוטובוס",
+          "emoji": "🚌"
+        },
+        {
+          "word": "סוס",
+          "emoji": "🐴"
+        },
+        {
+          "word": "רסס",
+          "emoji": "💧"
+        },
+        {
+          "word": "כסף",
+          "emoji": "💵"
+        },
+        {
+          "word": "פס",
+          "emoji": "👾"
+        }
       ]
     },
     "ע": {
       "beginning": [
-        { "word": "עץ", "emoji": "🌳" },
-        { "word": "עטלף", "emoji": "🦇" },
-        { "word": "עולם", "emoji": "🌍" },
-        { "word": "עיר", "emoji": "🏙️" },
-        { "word": "עיניים", "emoji": "👀" },
-        { "word": "עדות", "emoji": "📜" },
-        { "word": "עונה", "emoji": "🗓️" },
-        { "word": "עצמו", "emoji": "💪" },
-        { "word": "עצה", "emoji": "💡" },
-        { "word": "עברה", "emoji": "👰" }
+        {
+          "word": "עץ",
+          "emoji": "🌳"
+        },
+        {
+          "word": "עטלף",
+          "emoji": "🦇"
+        },
+        {
+          "word": "עולם",
+          "emoji": "🌍"
+        },
+        {
+          "word": "עיר",
+          "emoji": "🏙️"
+        },
+        {
+          "word": "עיניים",
+          "emoji": "👀"
+        },
+        {
+          "word": "עדות",
+          "emoji": "📜"
+        },
+        {
+          "word": "עונה",
+          "emoji": "🗓️"
+        },
+        {
+          "word": "עצה",
+          "emoji": "💡"
+        }
       ],
       "middle": [
-        { "word": "לעצמו", "emoji": "🔄" },
-        { "word": "בעולם", "emoji": "🌏" },
-        { "word": "שעה", "emoji": "⏰" },
-        { "word": "מעולם", "emoji": "🔓" },
-        { "word": "נער", "emoji": "🧒" },
-        { "word": "געת", "emoji": "😡" },
-        { "word": "דעת", "emoji": "🧠" },
-        { "word": "פער", "emoji": "🕳️" }
+        {
+          "word": "בעולם",
+          "emoji": "🌏"
+        },
+        {
+          "word": "שעה",
+          "emoji": "⏰"
+        },
+        {
+          "word": "מנעול",
+          "emoji": "🔓"
+        },
+        {
+          "word": "נער",
+          "emoji": "🧒"
+        },
+        {
+          "word": "דעת",
+          "emoji": "🧠"
+        },
+        {
+          "word": "פער",
+          "emoji": "🕳️"
+        }
       ],
       "end": [
-        { "word": "רע", "emoji": "😈" },
-        { "word": "גע", "emoji": "😢" },
-        { "word": "דע", "emoji": "🧠" },
-        { "word": "זע", "emoji": "😨" },
-        { "word": "קע", "emoji": "⬇️" },
-        { "word": "פע", "emoji": "📢" },
-        { "word": "צע", "emoji": "🧓" },
-        { "word": "שע", "emoji": "🩵" }
+        {
+          "word": "רע",
+          "emoji": "😈"
+        },
+        {
+          "word": "גע",
+          "emoji": "😢"
+        },
+        {
+          "word": "דע",
+          "emoji": "🧠"
+        },
+        {
+          "word": "זיעה",
+          "emoji": "😨"
+        },
+        {
+          "word": "פעל",
+          "emoji": "📢"
+        },
+        {
+          "word": "צעד",
+          "emoji": "🧓"
+        },
+        {
+          "word": "שעה",
+          "emoji": "⏰"
+        }
       ]
     },
     "פ": {
       "beginning": [
-        { "word": "פרח", "emoji": "🌻" },
-        { "word": "פה", "emoji": "👄" },
-        { "word": "פעיל", "emoji": "🏃" },
-        { "word": "פסיל", "emoji": "🗑️" },
-        { "word": "פניה", "emoji": "🤝" },
-        { "word": "פחדי", "emoji": "😱" },
-        { "word": "פסח", "emoji": "🍞" },
-        { "word": "פני", "emoji": "👤" },
-        { "word": "פינה", "emoji": "🔻" },
-        { "word": "פתח", "emoji": "🚪" }
+        {
+          "word": "פרח",
+          "emoji": "🌻"
+        },
+        {
+          "word": "פה",
+          "emoji": "👄"
+        },
+        {
+          "word": "פעיל",
+          "emoji": "🏃"
+        },
+        {
+          "word": "פסול",
+          "emoji": "🗑️"
+        },
+        {
+          "word": "פחד",
+          "emoji": "😱"
+        },
+        {
+          "word": "פסח",
+          "emoji": "🍞"
+        },
+        {
+          "word": "פנים",
+          "emoji": "👤"
+        },
+        {
+          "word": "פינה",
+          "emoji": "🔻"
+        },
+        {
+          "word": "פתח",
+          "emoji": "🚪"
+        }
       ],
       "middle": [
-        { "word": "לפחות", "emoji": "📉" },
-        { "word": "בפעם", "emoji": "1️⃣" },
-        { "word": "מפתח", "emoji": "🔑" },
-        { "word": "גפן", "emoji": "🍇" },
-        { "word": "אפל", "emoji": "⚫" },
-        { "word": "נפל", "emoji": "🍂" },
-        { "word": "ספר", "emoji": "📖" },
-        { "word": "מפרש", "emoji": "➡️" }
+        {
+          "word": "מפתח",
+          "emoji": "🔑"
+        },
+        {
+          "word": "גפן",
+          "emoji": "🍇"
+        },
+        {
+          "word": "אפל",
+          "emoji": "⚫"
+        },
+        {
+          "word": "ספר",
+          "emoji": "📖"
+        }
       ],
       "end": [
-        { "word": "כף", "emoji": "🖐️" },
-        { "word": "אף", "emoji": "👃" },
-        { "word": "גף", "emoji": "🍃" },
-        { "word": "סף", "emoji": "🚪" },
-        { "word": "קוף", "emoji": "🐵" },
-        { "word": "חוף", "emoji": "🏖️" },
-        { "word": "רף", "emoji": "🩴" },
-        { "word": "אלף", "emoji": "1️⃣" }
+        {
+          "word": "כף",
+          "emoji": "🖐️"
+        },
+        {
+          "word": "אף",
+          "emoji": "👃"
+        },
+        {
+          "word": "סף",
+          "emoji": "🚪"
+        },
+        {
+          "word": "קוף",
+          "emoji": "🐵"
+        },
+        {
+          "word": "חוף",
+          "emoji": "🏖️"
+        },
+        {
+          "word": "רף",
+          "emoji": "🩴"
+        }
       ]
     },
     "צ": {
       "beginning": [
-        { "word": "צפור", "emoji": "🐦" },
-        { "word": "צבי", "emoji": "🦌" },
-        { "word": "צבע", "emoji": "🎨" },
-        { "word": "צעיר", "emoji": "👧" },
-        { "word": "צוואר", "emoji": "👔" },
-        { "word": "צהוב", "emoji": "💛" },
-        { "word": "צעיף", "emoji": "🧣" },
-        { "word": "צעקה", "emoji": "📢" },
-        { "word": "צרור", "emoji": "📦" }
+        {
+          "word": "ציפור",
+          "emoji": "🐦"
+        },
+        {
+          "word": "צבי",
+          "emoji": "🦌"
+        },
+        {
+          "word": "צבע",
+          "emoji": "🎨"
+        },
+        {
+          "word": "צעיר",
+          "emoji": "👧"
+        },
+        {
+          "word": "צוואר",
+          "emoji": "👔"
+        },
+        {
+          "word": "צהוב",
+          "emoji": "💛"
+        },
+        {
+          "word": "צעיף",
+          "emoji": "🧣"
+        },
+        {
+          "word": "צעקה",
+          "emoji": "📢"
+        },
+        {
+          "word": "צרור",
+          "emoji": "📦"
+        }
       ],
       "middle": [
-        { "word": "לצפור", "emoji": "🏞️" },
-        { "word": "בצניעות", "emoji": "🤫" },
-        { "word": "קצר", "emoji": "📏" },
-        { "word": "מצוי", "emoji": "📍" },
-        { "word": "עצום", "emoji": "🦴" },
-        { "word": "נצח", "emoji": "🏆" },
-        { "word": "לציון", "emoji": "🎯" },
-        { "word": "בצורה", "emoji": "📝" }
+        {
+          "word": "קצר",
+          "emoji": "📏"
+        },
+        {
+          "word": "מצוי",
+          "emoji": "📍"
+        },
+        {
+          "word": "עצם",
+          "emoji": "🦴"
+        },
+        {
+          "word": "נצח",
+          "emoji": "🏆"
+        }
       ],
       "end": [
-        { "word": "עץ", "emoji": "🌳" },
-        { "word": "חץ", "emoji": "🎯" },
-        { "word": "קץ", "emoji": "🔚" },
-        { "word": "רץ", "emoji": "🏃" },
-        { "word": "בוץ", "emoji": "🍾" },
-        { "word": "ארץ", "emoji": "🌍" },
-        { "word": "פרץ", "emoji": "🔓" },
-        { "word": "אוץ", "emoji": "🐦" }
+        {
+          "word": "עץ",
+          "emoji": "🌳"
+        },
+        {
+          "word": "חץ",
+          "emoji": "🎯"
+        },
+        {
+          "word": "קץ",
+          "emoji": "🔚"
+        },
+        {
+          "word": "רץ",
+          "emoji": "🏃"
+        },
+        {
+          "word": "ארץ",
+          "emoji": "🌍"
+        },
+        {
+          "word": "פרץ",
+          "emoji": "🔓"
+        }
       ]
     },
     "ק": {
       "beginning": [
-        { "word": "קול", "emoji": "🔊" },
-        { "word": "קוף", "emoji": "🐵" },
-        { "word": "קורא", "emoji": "📖" },
-        { "word": "קן", "emoji": "🪶" },
-        { "word": "קשת", "emoji": "🏹" },
-        { "word": "קטן", "emoji": "👶" },
-        { "word": "קדמון", "emoji": "⏰" },
-        { "word": "קרח", "emoji": "❄️" },
-        { "word": "קרן", "emoji": "🦑" },
-        { "word": "קירה", "emoji": "🧱" }
+        {
+          "word": "קול",
+          "emoji": "🔊"
+        },
+        {
+          "word": "קוף",
+          "emoji": "🐵"
+        },
+        {
+          "word": "קורא",
+          "emoji": "📖"
+        },
+        {
+          "word": "קן",
+          "emoji": "🪶"
+        },
+        {
+          "word": "קשת",
+          "emoji": "🏹"
+        },
+        {
+          "word": "קטן",
+          "emoji": "👶"
+        },
+        {
+          "word": "קדמון",
+          "emoji": "⏰"
+        },
+        {
+          "word": "קרח",
+          "emoji": "❄️"
+        },
+        {
+          "word": "קיר",
+          "emoji": "🧱"
+        }
       ],
       "middle": [
-        { "word": "לקול", "emoji": "👂" },
-        { "word": "בקביעות", "emoji": "📅" },
-        { "word": "שקט", "emoji": "🤐" },
-        { "word": "מקום", "emoji": "📍" },
-        { "word": "נקי", "emoji": "🧼" },
-        { "word": "דקה", "emoji": "⏱️" },
-        { "word": "עקב", "emoji": "🦶" },
-        { "word": "פקיד", "emoji": "👨‍⚖️" }
+        {
+          "word": "שקט",
+          "emoji": "🤐"
+        },
+        {
+          "word": "מקום",
+          "emoji": "📍"
+        },
+        {
+          "word": "נקי",
+          "emoji": "🧼"
+        },
+        {
+          "word": "דקה",
+          "emoji": "⏱️"
+        },
+        {
+          "word": "עקב",
+          "emoji": "🦶"
+        },
+        {
+          "word": "פקיד",
+          "emoji": "👨‍⚖️"
+        }
       ],
       "end": [
-        { "word": "חק", "emoji": "📑" },
-        { "word": "דק", "emoji": "⏰" },
-        { "word": "רק", "emoji": "🚨" },
-        { "word": "זק", "emoji": "👴" },
-        { "word": "צוק", "emoji": "🔥" },
-        { "word": "שוק", "emoji": "🛒" },
-        { "word": "חוק", "emoji": "📜" },
-        { "word": "עוק", "emoji": "👶" }
+        {
+          "word": "רק",
+          "emoji": "🚨"
+        },
+        {
+          "word": "צוק",
+          "emoji": "🔥"
+        },
+        {
+          "word": "שוק",
+          "emoji": "🛒"
+        },
+        {
+          "word": "חוק",
+          "emoji": "📜"
+        },
+        {
+          "word": "עמוק",
+          "emoji": "👶"
+        }
       ]
     },
     "ר": {
       "beginning": [
-        { "word": "רחוק", "emoji": "🔭" },
-        { "word": "רוח", "emoji": "💨" },
-        { "word": "רחוב", "emoji": "🛣️" },
-        { "word": "ריח", "emoji": "👃" },
-        { "word": "רוגע", "emoji": "😌" },
-        { "word": "רובה", "emoji": "🔫" },
-        { "word": "רכבת", "emoji": "🚂" },
-        { "word": "רמות", "emoji": "🏔️" },
-        { "word": "רמזים", "emoji": "🫵" }
+        {
+          "word": "רחוק",
+          "emoji": "🔭"
+        },
+        {
+          "word": "רוח",
+          "emoji": "💨"
+        },
+        {
+          "word": "רחוב",
+          "emoji": "🛣️"
+        },
+        {
+          "word": "ריח",
+          "emoji": "👃"
+        },
+        {
+          "word": "רוגע",
+          "emoji": "😌"
+        },
+        {
+          "word": "רובה",
+          "emoji": "🔫"
+        },
+        {
+          "word": "רכבת",
+          "emoji": "🚂"
+        },
+        {
+          "word": "רמה",
+          "emoji": "🏔️"
+        },
+        {
+          "word": "רמז",
+          "emoji": "🫵"
+        }
       ],
       "middle": [
-        { "word": "לרוח", "emoji": "🌬️" },
-        { "word": "בריח", "emoji": "🔓" },
-        { "word": "קרא", "emoji": "📣" },
-        { "word": "גרב", "emoji": "🧦" },
-        { "word": "ערב", "emoji": "🌆" },
-        { "word": "מרוץ", "emoji": "🏃" },
-        { "word": "פרח", "emoji": "🌺" },
-        { "word": "דרך", "emoji": "🛤️" }
+        {
+          "word": "בריח",
+          "emoji": "🔓"
+        },
+        {
+          "word": "קרא",
+          "emoji": "📣"
+        },
+        {
+          "word": "גרב",
+          "emoji": "🧦"
+        },
+        {
+          "word": "ערב",
+          "emoji": "🌆"
+        },
+        {
+          "word": "מרוץ",
+          "emoji": "🏃"
+        },
+        {
+          "word": "פרח",
+          "emoji": "🌺"
+        },
+        {
+          "word": "דרך",
+          "emoji": "🛤️"
+        }
       ],
       "end": [
-        { "word": "גר", "emoji": "🏘️" },
-        { "word": "כר", "emoji": "🌾" },
-        { "word": "הר", "emoji": "⛰️" },
-        { "word": "זר", "emoji": "💐" },
-        { "word": "מר", "emoji": "👨‍⚕️" },
-        { "word": "נר", "emoji": "🕯️" },
-        { "word": "פר", "emoji": "🐄" },
-        { "word": "עור", "emoji": "🧴" }
+        {
+          "word": "גר",
+          "emoji": "🏘️"
+        },
+        {
+          "word": "הר",
+          "emoji": "⛰️"
+        },
+        {
+          "word": "זר",
+          "emoji": "💐"
+        },
+        {
+          "word": "מר",
+          "emoji": "👨‍⚕️"
+        },
+        {
+          "word": "נר",
+          "emoji": "🕯️"
+        },
+        {
+          "word": "פר",
+          "emoji": "🐄"
+        }
       ]
     },
     "ש": {
       "beginning": [
-        { "word": "שמש", "emoji": "☀️" },
-        { "word": "שמע", "emoji": "👂" },
-        { "word": "שם", "emoji": "📝" },
-        { "word": "שדה", "emoji": "🌾" },
-        { "word": "שונה", "emoji": "🔄" },
-        { "word": "שועה", "emoji": "📢" },
-        { "word": "שיר", "emoji": "🎵" },
-        { "word": "שירה", "emoji": "🎤" },
-        { "word": "שעון", "emoji": "⏰" },
-        { "word": "שערות", "emoji": "💇" },
-        { "word": "שנה", "emoji": "📅" }
+        {
+          "word": "שמש",
+          "emoji": "☀️"
+        },
+        {
+          "word": "שמע",
+          "emoji": "👂"
+        },
+        {
+          "word": "שם",
+          "emoji": "📝"
+        },
+        {
+          "word": "שדה",
+          "emoji": "🌾"
+        },
+        {
+          "word": "שונה",
+          "emoji": "🔄"
+        },
+        {
+          "word": "שועה",
+          "emoji": "📢"
+        },
+        {
+          "word": "שיר",
+          "emoji": "🎵"
+        },
+        {
+          "word": "שירה",
+          "emoji": "🎤"
+        },
+        {
+          "word": "שעון",
+          "emoji": "⏰"
+        },
+        {
+          "word": "שערות",
+          "emoji": "💇"
+        },
+        {
+          "word": "שנה",
+          "emoji": "📅"
+        }
       ],
       "middle": [
-        { "word": "לשון", "emoji": "👅" },
-        { "word": "בשונה", "emoji": "🔀" },
-        { "word": "משהו", "emoji": "🤷" },
-        { "word": "גשם", "emoji": "🌧️" },
-        { "word": "נשמה", "emoji": "👻" },
-        { "word": "חשבון", "emoji": "📊" },
-        { "word": "משחק", "emoji": "🎮" },
-        { "word": "קשת", "emoji": "🌈" }
+        {
+          "word": "לשון",
+          "emoji": "👅"
+        },
+        {
+          "word": "גשם",
+          "emoji": "🌧️"
+        },
+        {
+          "word": "נשמה",
+          "emoji": "👻"
+        },
+        {
+          "word": "חשבון",
+          "emoji": "📊"
+        },
+        {
+          "word": "משחק",
+          "emoji": "🎮"
+        },
+        {
+          "word": "קשת",
+          "emoji": "🌈"
+        }
       ],
       "end": [
-        { "word": "כש", "emoji": "🌾" },
-        { "word": "מש", "emoji": "🤝" },
-        { "word": "גש", "emoji": "🌧️" },
-        { "word": "נש", "emoji": "🦅" },
-        { "word": "חש", "emoji": "🤫" },
-        { "word": "רש", "emoji": "🚔" },
-        { "word": "עש", "emoji": "🪪" },
-        { "word": "אש", "emoji": "🔥" }
+        {
+          "word": "חש",
+          "emoji": "🤫"
+        },
+        {
+          "word": "כביש",
+          "emoji": "🚔"
+        },
+        {
+          "word": "דש",
+          "emoji": "👕"
+        },
+        {
+          "word": "שלוש",
+          "emoji": "3️⃣"
+        },
+        {
+          "word": "אש",
+          "emoji": "🔥"
+        }
       ]
     },
     "ת": {
       "beginning": [
-        { "word": "תמונה", "emoji": "📸" },
-        { "word": "תפוח", "emoji": "🍎" },
-        { "word": "תפוזה", "emoji": "🍊" },
-        { "word": "תור", "emoji": "⏳" },
-        { "word": "תוגה", "emoji": "😢" },
-        { "word": "תורה", "emoji": "📜" },
-        { "word": "תאריך", "emoji": "📆" },
-        { "word": "תוכן", "emoji": "📋" },
-        { "word": "תרבות", "emoji": "🎭" },
-        { "word": "תיאור", "emoji": "📝" }
+        {
+          "word": "תמונה",
+          "emoji": "📸"
+        },
+        {
+          "word": "תפוח",
+          "emoji": "🍎"
+        },
+        {
+          "word": "תפוז",
+          "emoji": "🍊"
+        },
+        {
+          "word": "תור",
+          "emoji": "⏳"
+        },
+        {
+          "word": "תורה",
+          "emoji": "📜"
+        },
+        {
+          "word": "תאריך",
+          "emoji": "📆"
+        },
+        {
+          "word": "תוכן",
+          "emoji": "📋"
+        },
+        {
+          "word": "תרבות",
+          "emoji": "🎭"
+        },
+        {
+          "word": "תיאור",
+          "emoji": "📝"
+        }
       ],
       "middle": [
-        { "word": "לתוכן", "emoji": "📚" },
-        { "word": "בתים", "emoji": "🏘️" },
-        { "word": "כתיב", "emoji": "✍️" },
-        { "word": "מתנה", "emoji": "🎁" },
-        { "word": "פתח", "emoji": "🚪" },
-        { "word": "נתיב", "emoji": "🛣️" },
-        { "word": "ותיק", "emoji": "👴" },
-        { "word": "שתי", "emoji": "2️⃣" }
+        {
+          "word": "בתים",
+          "emoji": "🏘️"
+        },
+        {
+          "word": "כתיב",
+          "emoji": "✍️"
+        },
+        {
+          "word": "מתנה",
+          "emoji": "🎁"
+        },
+        {
+          "word": "פתח",
+          "emoji": "🚪"
+        },
+        {
+          "word": "נתיב",
+          "emoji": "🛣️"
+        },
+        {
+          "word": "ותיק",
+          "emoji": "👴"
+        },
+        {
+          "word": "שתיים",
+          "emoji": "2️⃣"
+        }
       ],
       "end": [
-        { "word": "את", "emoji": "🤝" },
-        { "word": "בת", "emoji": "👧" },
-        { "word": "דת", "emoji": "⛪" },
-        { "word": "עת", "emoji": "⏰" },
-        { "word": "מת", "emoji": "💀" },
-        { "word": "פת", "emoji": "🍞" },
-        { "word": "שת", "emoji": "🚽" },
-        { "word": "חת", "emoji": "😱" }
+        {
+          "word": "את",
+          "emoji": "🤝"
+        },
+        {
+          "word": "בת",
+          "emoji": "👧"
+        },
+        {
+          "word": "דת",
+          "emoji": "⛪"
+        },
+        {
+          "word": "עת",
+          "emoji": "⏰"
+        },
+        {
+          "word": "פת",
+          "emoji": "🍞"
+        }
       ]
     }
   }

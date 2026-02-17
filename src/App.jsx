@@ -36,9 +36,20 @@ function App() {
     setSelectedLevel(level)
     
     // Get words for the selected letter and position
-    const letterPos = selectedPosition === 'beginning' ? 'beginning' : 
-                      selectedPosition === 'middle' ? 'middle' : 'end'
-    const availableWords = wordsData.words[selectedLetter]?.[letterPos] || []
+    let availableWords = []
+    
+    if (selectedPosition === 'all') {
+      // Combine words from all positions
+      const beginning = wordsData.words[selectedLetter]?.['beginning'] || []
+      const middle = wordsData.words[selectedLetter]?.['middle'] || []
+      const end = wordsData.words[selectedLetter]?.['end'] || []
+      availableWords = [...beginning, ...middle, ...end]
+    } else {
+      // Single position
+      const letterPos = selectedPosition === 'beginning' ? 'beginning' : 
+                        selectedPosition === 'middle' ? 'middle' : 'end'
+      availableWords = wordsData.words[selectedLetter]?.[letterPos] || []
+    }
     
     // Determine how many pairs based on level
     let pairCount = level === 'easy' ? 4 : level === 'medium' ? 6 : 8
